@@ -1,5 +1,7 @@
 # 🧘 YouCalm - Mobile App UI Prototype
 
+![YouCalm](https://github.com/wmrmweerakoon/YouCalm-Mobile-UI-Prototype/blob/main/YouCalm.png?raw=true)
+
 **YouCalm** is a mobile app **UI/UX prototype** designed in **Figma** to promote mindfulness and stress relief.  
 The prototype demonstrates interactive user flows such as:  
 - ✨ Onboarding experience for new users  
